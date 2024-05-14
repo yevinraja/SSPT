@@ -146,7 +146,7 @@
             <a href="View More" class="btn btn-primaryV" style="width: 200px">View More</a>
 
             <img src="Image/tn4.jpg" alt="Trulli" style="width:200px">
-            <figcaption>Junior National and 77th Senior National Table Tennis Championships 2023</figcaption>
+            <figcaption>Junior National and 77th Senior National Table Tennis Championship 2023</figcaption>
             <a href="View More" class="btn btn-primaryV1" style="width: 200px">View More</a>
         </figure>
     </div>
