@@ -63,3 +63,4 @@ Auth::logout();
         return redirect(route('login'));
     }
 }
+
